@@ -82,7 +82,7 @@ def run():
   grade3 = input("Enter your course 3 letter grade: ")
   credit3 = float(input("Enter your course 3 credit: "))
   if grade3 == "A":
-    gradepoint = 4.0
+    gradepoint3 = 4.0
     print ("Grade point for course 3 is: 4.0")
   elif grade3 == "A-":
     gradepoint3 = 3.67
